@@ -255,3 +255,22 @@
 64. What are the best practices for logging and error handling in a backend application?
 65. Describe the process of designing and implementing a task scheduling system.
 66. How do you ensure data integrity and prevent data corruption in a backend system?
+
+# Interview Questions for Full Stack Developer Profile ( 1+ year experience ) - [ Company - WebiWork ]
+
+1. What are Promises in JavaScript, and how do you handle them? Provide examples using .then(), .catch(), and async/await.
+2. What is the difference between Promise.all() and Promise.allSettled() in JavaScript? Explain with examples.
+3. What is React, and how does it works? Explain the core concepts.
+4. What are hooks?
+5. Difference between useEffect and useCallback.
+6. const str = "AABBCCADE"    // output - "ABCADE"
+7. console.log(1+"1")
+8. console.log(1++"1")
+9. for ( var = 0; i < 5; i++ ) { setTimeout(()=>console.log(i)), 1000 }
+10. for ( let = 0; i < 5; i++ ) { setTimeout(()=>console.log(i)), 1000 }
+11. for ( const = 0; i < 5; i++ ) { setTimeout(()=>console.log(i)), 1000 }
+12. What is virtual dom in react?
+13. Difference between indexing and aggregation in MongoDB.
+14. How to handle multiple api requets on server?
+15. How many types of status code you have used in backend?
+16. What is CI/CD and what are the methods?
