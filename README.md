@@ -274,3 +274,10 @@
 14. How to handle multiple api requets on server?
 15. How many types of status code you have used in backend?
 16. What is CI/CD and what are the methods?
+17. What is React current version?
+18. What is redux?
+19. What is createAsyncThunk in redux?
+20. Have you used react-query?
+21. Which method is used for creating index in mongoDB?
+22. Difference between POST, PATCH, PUT method.
+
