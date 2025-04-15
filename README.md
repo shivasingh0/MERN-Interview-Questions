@@ -266,9 +266,9 @@
 6. const str = "AABBCCADE"    // output - "ABCADE"
 7. console.log(1+"1")
 8. console.log(1++"1")
-9. for ( var = 0; i < 5; i++ ) { setTimeout(()=>console.log(i)), 1000 }
-10. for ( let = 0; i < 5; i++ ) { setTimeout(()=>console.log(i)), 1000 }
-11. for ( const = 0; i < 5; i++ ) { setTimeout(()=>console.log(i)), 1000 }
+9. for ( var i = 0; i < 5; i++ ) { setTimeout(()=>console.log(i)), 1000 }
+10. for ( let i = 0; i < 5; i++ ) { setTimeout(()=>console.log(i)), 1000 }
+11. for ( const i = 0; i < 5; i++ ) { setTimeout(()=>console.log(i)), 1000 }
 12. What is virtual dom in react?
 13. Difference between indexing and aggregation in MongoDB.
 14. How to handle multiple api requets on server?
